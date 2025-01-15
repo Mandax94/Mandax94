@@ -1,4 +1,4 @@
-{
+colour internet connection Ai auto reply{
     name: ["HTML", ".html", ".htm"]
     ignoreCase: true
     comment: {startsWith: "<!--", endsWith: "-->"}
